@@ -26,6 +26,7 @@ to gain important insights into the company’s financial stability and operatio
 
 ## Data Visualization & Reporting:
 🔹Created interactive Power BI dashboards to highlight financial metrics, growth trends, and performance indicators.
+
 🔹Developed personalized PDF reports with price action graphs and investment insights for informed decision-making.
 
 ## Impact: 
