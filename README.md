@@ -2,7 +2,8 @@
 Financial Ratio Analysis
 
 
-Company Overview
+**Company Overview**
+
 Tesla is a prominent American electric vehicle (EV) and clean energy company founded in 2003. Known for its innovation and sustainability focus, Tesla designs and manufactures EVs, battery energy storage systems, solar panels, and related products. The company has experienced significant growth in recent years.
 With extensive data on its financial performance, the goal of this project is to analyze Tesla's key financial metrics and provide actionable insights for strategic decision-making
 
