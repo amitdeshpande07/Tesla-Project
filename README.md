@@ -21,7 +21,7 @@ to gain important insights into the company’s financial stability and operatio
 
 **🔹Segment Reporting:** Analyzed revenue contributions from different business segments to provide a deeper understanding of Tesla’s financial structure.
 
-🔹Revenue Breakdown: Examined revenue sources to highlight growth drivers and profitability trends.
+**🔹Revenue Breakdown:** Examined revenue sources to highlight growth drivers and profitability trends.
 
 ## Data Visualization & Reporting:
 🔹Created interactive Power BI dashboards to highlight financial metrics, growth trends, and performance indicators.
