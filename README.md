@@ -16,9 +16,11 @@ With extensive data on its financial performance, the goal of this project is to
 🔹Cleaned and structured financial data in Excel, preparing it for in-depth analysis and visualization.
 
 ## Financial Data Analysis: 
-**Financial Performance Metrics:** Analyzed Activity Ratios, Liquidity Ratios, Solvency Ratios, Profitability Ratios, and Valuation Ratios to assess Tesla’s financial health
+**🔹Financial Performance Metrics:** Analyzed Activity Ratios, Liquidity Ratios, Solvency Ratios, Profitability Ratios, and Valuation Ratios to assess Tesla’s financial health
 to gain important insights into the company’s financial stability and operational efficiency, guiding informed decision-making and strategic improvements.
+
 **🔹Segment Reporting:** Analyzed revenue contributions from different business segments to provide a deeper understanding of Tesla’s financial structure.
+
 🔹Revenue Breakdown: Examined revenue sources to highlight growth drivers and profitability trends.
 
 ## Data Visualization & Reporting:
