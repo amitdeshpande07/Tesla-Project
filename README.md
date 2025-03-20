@@ -33,4 +33,5 @@ to gain important insights into the company’s financial stability and operatio
 
 	
 
+
 This project provides a comprehensive financial analysis framework to support strategic planning, improve Tesla's operational efficiency, and drive sustainable growth.
