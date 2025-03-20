@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/009e5ba6-5e87-4f33-a251-6e31fcd103f4)# Tesla-Project
+Tesla-Project
 Financial Ratio Analysis
 
 
@@ -27,5 +27,3 @@ Impact:
 	
 
 This project provides a comprehensive financial analysis framework to support strategic planning, improve Tesla's operational efficiency, and drive sustainable growth.
-
-![image](https://github.com/user-attachments/assets/3f544aa3-3a82-4962-b2c5-17b780275135)
